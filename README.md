@@ -1,5 +1,5 @@
 # react_ant_sidebar
-#Step1: Create project react by use vite
-$npm create vite@latest
-$cd react-app
-$npm install
+#Step1: Create project react by use vite <BR>
+$npm create vite@latest <BR>
+$cd react-app <BR>
+$npm install <BR>
