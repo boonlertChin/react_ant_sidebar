@@ -3,3 +3,6 @@
 $npm create vite@latest <BR>
 $cd react-app <BR>
 $npm install <BR>
+
+![CHEESE!](sider.png)
+![CHEESE!](sider2.png)
